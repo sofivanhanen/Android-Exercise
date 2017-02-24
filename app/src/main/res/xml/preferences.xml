@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="@string/pref_app_id_key"
+        android:title="@string/pref_app_id_title"
+        android:defaultValue="@string/app_id"
+        />
+
+    <EditTextPreference
+        android:key="@string/pref_app_key_key"
+        android:title="@string/pref_app_key_title"
+        android:defaultValue="@string/app_key"
+        />
+
+</PreferenceScreen>

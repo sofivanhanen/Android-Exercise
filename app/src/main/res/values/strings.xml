@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exercise</string>
+
+    <string name="edit_text_hint">Input search term</string>
+    <string name="button_text">Search</string>
+    <string name="tv_nothing_found_text">Nothing found. Please search for itemTitle, typeMedia, indexDataModified or id.</string>
+
+    <string name="app_id">eab65b12</string>
+    <string name="app_key">fb9c9cedebd534407b9e037e5fb8dac4</string>
+
+    <string name="pref_app_id_key">app_id</string>
+    <string name="pref_app_id_title">Your App ID</string>
+    <string name="pref_app_key_key">app_key</string>
+    <string name="pref_app_key_title">Your App Key</string>
+
+    <string name="menu_title_settings">Settings</string>
+
+</resources>
